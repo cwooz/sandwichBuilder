@@ -1,3 +1,3 @@
 # sandwichBuilder
 
-## Modular Reusable React App for Restaurant Kiosk Ordering System
+## Modular ReUsable React App for Restaurant Kiosk Ordering System
